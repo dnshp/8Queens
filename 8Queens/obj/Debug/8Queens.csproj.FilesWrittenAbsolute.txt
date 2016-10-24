@@ -1,0 +1,6 @@
+/Users/dineshparimi/Documents/Programming/8Queens/8Queens/8Queens/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/dineshparimi/Documents/Programming/8Queens/8Queens/8Queens/bin/Debug/8Queens.exe.config
+/Users/dineshparimi/Documents/Programming/8Queens/8Queens/8Queens/bin/Debug/8Queens.exe.mdb
+/Users/dineshparimi/Documents/Programming/8Queens/8Queens/8Queens/bin/Debug/8Queens.exe
+/Users/dineshparimi/Documents/Programming/8Queens/8Queens/8Queens/obj/Debug/8Queens.exe
+/Users/dineshparimi/Documents/Programming/8Queens/8Queens/8Queens/obj/Debug/8Queens.exe.mdb
